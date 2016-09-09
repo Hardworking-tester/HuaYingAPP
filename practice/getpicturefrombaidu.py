@@ -8,8 +8,9 @@ class T1():
     网络爬虫获取百度图片
     """
     def geturl(self):
+        url="http://image.baidu.com/channel?c=%E7%BE%8E%E9%A3%9F&t=%E5%85%A8%E9%83%A8&s=0"
         # url="http://image.baidu.com/channel?c=%E7%BE%8E%E9%A3%9F&t=%E5%85%A8%E9%83%A8&s=0"
-        url="http://h.hiphotos.baidu.com/image/w%3D310/"
+        # url="http://h.hiphotos.baidu.com/image/w%3D310/"
         # url="http://image.baidu.com/channel?c=%E7%BE%8E%E5%A5%B3#%E7%BE%8E%E5%A5%B3"
 
         req=urllib2.Request(url)
