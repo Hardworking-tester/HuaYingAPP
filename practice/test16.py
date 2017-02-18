@@ -14,3 +14,4 @@ sleep(10)
 # driver.quit()
 
 driver.get_screenshot_as_file("F:\\testresult\\pp.jpg")
+print "wwg"
