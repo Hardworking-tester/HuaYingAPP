@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://G:/HuaYing/.idea/HuaYing.iml" filepath="G:/HuaYing/.idea/HuaYing.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/HuaYingAPP.iml" filepath="$PROJECT_DIR$/.idea/HuaYingAPP.iml" />
-      <module fileurl="file://G:/auto_test/.idea/auto_test.iml" filepath="G:/auto_test/.idea/auto_test.iml" />
-      <module fileurl="file://G:/flasky-master/.idea/flasky-master.iml" filepath="G:/flasky-master/.idea/flasky-master.iml" />
-      <module fileurl="file://G:/newsmeme/.idea/newsmeme.iml" filepath="G:/newsmeme/.idea/newsmeme.iml" />
-      <module fileurl="file://G:/untitled/.idea/untitled.iml" filepath="G:/untitled/.idea/untitled.iml" />
-      <module fileurl="file://G:/web_flask/.idea/web_flask.iml" filepath="G:/web_flask/.idea/web_flask.iml" />
     </modules>
   </component>
 </project>
